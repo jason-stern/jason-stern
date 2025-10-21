@@ -47,13 +47,13 @@
 I am currently developing a **portfolio website** with Next.js and Tailwind CSS. Stay tuned!
  -->
 
-<!-- ### Skills 
+### Skills 
 
 <div style='width: 40%; margin-bottom: 50px; padding: 10px 0px 10px 0px; display: flex; justify-content: center; gap: 1rem; background-color: azure; border: 2px solid black; border-radius: 5px'>
     <div style='display: flex; width: 8rem; align-items: center; justify-content: center; background-color: black; border: 2px solid darkgray; border-radius: 10px'><img src='images/python-logo.png' width="auto" height="auto"></div>
     <div style='display: flex; width: 8rem; align-items: center; justify-content: center; background-color: black; border: 2px solid darkgray; border-radius: 10px'><img src='images/java-logo.png' width="auto" height="auto"></div>
     <div style='display: flex; width: 8rem; align-items: center; justify-content: center; background-color: black; border: 2px solid darkgray; border-radius: 10px'><img src='images/typescript-logo.png' width="75%" height="75%"></div>
-</div> -->
+</div>
 
 
 
